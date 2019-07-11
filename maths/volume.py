@@ -39,8 +39,6 @@ def vol_right_circ_cone(radius, height):
     volume = (1/3) * pi * radius^2 * height
     """
 
-    import math
-
     return (float(1) / 3) * PI * (radius ** 2) * height
 
 
